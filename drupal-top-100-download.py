@@ -1,4 +1,10 @@
 
+# Include the /bs4 directory so we can import it in case the user doesn't have 
+# BeautifulSoup installed already.
+import sys
+sys.path.append("/bs4")
+
+
 # We'll need the Regular Expression library to parse our text
 import re
 
