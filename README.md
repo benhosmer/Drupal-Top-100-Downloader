@@ -8,4 +8,5 @@ And the BeautifulSoup Library: http://www.crummy.com/software/BeautifulSoup/bs4/
 Check out the Downloads for an OS X app that downloads all of the modules within the application package contents.
 
 After you double-click the application, use finder to "Show Package Contents".
-Within this folder you will find a folder called drupal. This is where the downloaded modules are.
+Within this folder open Contents/Resources you will find a folder called drupal-modules. 
+This is where the downloaded modules are.
