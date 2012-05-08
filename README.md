@@ -14,5 +14,5 @@ Within this folder open Contents/Resources you will find a folder called drupal-
 This is where the downloaded modules are.
 
 After you install drush, from the command line type:
-> python drupal-top-100.py
+> python drupal-top-100-download.py
 
