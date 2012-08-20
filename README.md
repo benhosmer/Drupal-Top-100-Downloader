@@ -1,6 +1,8 @@
 Drupal-Top-100-Downloader
 =========================
 
+_NOTE: This script requires drush 5.x_
+
 The script downloads the current top 100 drupal modules from http://drupal.org/project/usage
 It requires drush: http://drupal.org/project/drush
 And the BeautifulSoup Library: http://www.crummy.com/software/BeautifulSoup/bs4/doc/
