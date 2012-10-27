@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Bootstrap, from Twitter</title>
+    <title>Drupal Top 100 Downloader</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -48,7 +48,7 @@
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li class="active"><a href="#">Home</a></li>
-              <li><a href="#about">About</a></li>
+              <li><a href="#about">{{ name }}</a></li>
               <li><a href="#contact">Contact</a></li>
             </ul>
           </div><!--/.nav-collapse -->
@@ -62,7 +62,7 @@
           <div class="hero-unit">
             <h1>Download the Top 100 Drupal Modules</h1>
             <p>This application will retrieve the <em>Top 100</em> modules found at <a href="http://drupal.org/project/usage">drupal.org/project/usage</a> and package them into a convenient download for you. All you have to do is unzip the file and place it wherever you like to put your modules.</p>
-            <p><a class="btn btn-primary btn-large">Download! &raquo;</a></p>
+            <p><a class="btn btn-primary btn-large">Download The Modules! &raquo;</a></p>
           </div>
           
 
